@@ -1,2 +1,2 @@
 # Excel-Dashboards
-This repoistory contains dashboard projects of excel 
+This repository contains dashboard data of excel different worksheets
